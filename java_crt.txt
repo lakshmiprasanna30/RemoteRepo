@@ -1,0 +1,106 @@
+JAVA INTRO:
+JAVA:
+its is a object orirnted prgming language
+
+HISTORY OF JAVA:
+DEVELOPED BY:JAMES GOSLING IN YEAR 1995 AT SUN MICROSYSTEMS
+INITIALY JAVA IS CALLED AS OAK
+
+WHERE....????
+NOTEPAD
+ROBOTICS
+GAMES
+PUBG
+
+
+WHY WE GO FOR JAVA ??
+OPEN SOURCE(any one can access)
+OBJECT ORIENTED
+ROBUST
+PLATFORM INDEPENDEDNT
+EASY TO USE
+SIMPLE
+PORATABLE
+
+
+ACCESS MODIFIERS:
+public(we can access same package or differnt package)
+private(with in the package)
+protected(with in the class)
+default(same as public)
+
+
+DATATYPES:
+assining value to the varable
+2types:
+
+primitive(boolen[0,1],
+byte[1byte=8bits],
+short[1 short=2bytes],
+int[1int=4bytes],
+long[8bytes=64bits]
+float[upoto 7 digit number]
+double[upto 15 digits]
+char[2bytes],16bits
+
+
+non-primitive:
+string
+array
+class
+object
+interface
+
+OPERATORS:
+java provide set of operators
+types:
+urinary(increment,decrement,++,--)
+ternary(?)
+arthematic(+-)
+shift
+relation
+assignment
+logical
+bit wise
+
+LOOPS:
+
+for loop
+whileloop
+do whileloop
+for-each(its bypased )
+
+
+
+30/4/24
+
+
+  THE PROCESS OF INTERATION OF LEGACI COLLECTION OBJECT
+ its is ana interface
+the classes which are introduced in java 1.0 version (eg: hash map,stack,vector,dictonary)
+new classes the classes which are introduced from java 1.2 version (linkedlist)
+enumeration provieds 2 method=.hasMoreElement(camel case)
+
+
+
+seriallization:
+order of sequence
+converting an object to bytes 
+its a process of converting an object into a series of bits
+in java the object can be serialisebale to do the following  operations
+ write an object to a file 
+ reading an object from a file
+ writing an obect to a network
+ reading an object from a network
+serialisable interface is also called empty interface,markser interface,tag interface
+ strems 
+object output stream
+1.for dseralizing(fleddining the object)
+object input stream for decerializing (reconstructing an object)
+
+
+
+
+
+
+
