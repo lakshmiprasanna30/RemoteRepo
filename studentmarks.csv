@@ -1,0 +1,6 @@
+regno   sub1   sub2   result
+501     90     99     pass
+502     25     15     fail
+503     87     56     pass
+504     66     77     pass
+505     88     88     pass
